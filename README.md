@@ -1,7 +1,7 @@
 
 # Calculator-Game
 
-Calculator Game, kullanıcıların matematiksel problemleri çözerek ilerlediği basit bir hesaplama oyunudur.
+Calculator Game, kullanıcıların matematiksel işlemler yapıp ilerlediği basit bir hesaplama oyunudur.
 
 ## Özellikler
 - **Farklı Soru Türleri:** Toplama, çıkarma, çarpma ve bölme işlemleri.
