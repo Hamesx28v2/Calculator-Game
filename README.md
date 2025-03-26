@@ -1,16 +1,14 @@
-# hesap_makinesi
+# Calculator Game
 
-A new Flutter project.
+Calculator Game, kullanıcıların matematiksel problemleri çözerek ilerlediği basit bir hesaplama oyunudur.
 
-## Getting Started
+## Özellikler
+- **Farklı Soru Türleri:** Toplama, çıkarma, çarpma ve bölme işlemleri.
+- **Zorluk Seviyeleri:** Kolaydan zora doğru değişen zorluk seviyeleri.
 
-This project is a starting point for a Flutter application.
+## Kurulum
+Bu projeyi bilgisayarınıza klonladıktan sonra, uygulamayı çalıştırabilirsiniz.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Projeyi klonlayın:
+   ```bash
+   git clone https://github.com/Hamesx28v2/Calculator-Game.git
