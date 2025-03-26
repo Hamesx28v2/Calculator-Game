@@ -1,4 +1,4 @@
-# hesap_makinesi
+# Calculator-Game
 
 A new Flutter project.
 
